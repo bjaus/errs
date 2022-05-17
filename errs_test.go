@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/rewardStyle/creator-account-service/pkg/errs"
+	"github.com/bjaus/errs"
 )
 
 func TestLog(t *testing.T) {

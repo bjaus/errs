@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/rewardStyle/creator-account-service/pkg/caller"
+	"github.com/bjaus/errs/caller"
 )
 
 var Sep string = " :: "

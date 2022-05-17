@@ -5,7 +5,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/rewardStyle/creator-account-service/pkg/caller"
+	"github.com/bjaus/errs/caller"
 )
 
 var _ Error = new(impl)
